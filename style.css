@@ -1,0 +1,19 @@
+.header {
+    color: white; 
+    border-radius: 40px;
+    background: black; 
+    text-align: center;
+}
+.contacts {
+    color: white; 
+    border-radius: 40px;
+    background: red; 
+    text-align: center;
+}
+.education {
+    color: white; 
+    border-radius: 40px;
+    background: black; 
+    text-align: center;
+}
+
