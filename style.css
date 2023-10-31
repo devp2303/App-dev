@@ -1,11 +1,11 @@
-.header {
+#header {
     color: white; 
     border-radius: 40px;
     background: black; 
     text-align: center;
 }
 .contacts {
-    color: white; 
+    color: rgb(255, 255, 255); 
     border-radius: 40px;
     background: red; 
     text-align: center;
